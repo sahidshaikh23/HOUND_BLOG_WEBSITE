@@ -9,7 +9,7 @@
 ## Blogging Application
 This is a full-stack Blogging application built using MERN stack by a team of 2. The application loads data from a MongoDB database and displays them using **_React and MUI_** ( front-end ), **_NodeJs and ExpressJS_** ( back-end ).
 
-**Vercel link of our project**:  https://houndblog.netlify.app/
+**Netlify link of our project**:  https://houndblog.netlify.app/
 - **Note:**
   - The website may experience a delay in loading, especially if it has been inactive for a while. The backend is deployed in a free-tier environment, and due to inactivity, the server may take a few seconds to spin up. We appreciate your patience.
   - Thank you for your understanding and support!
