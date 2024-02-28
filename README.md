@@ -31,4 +31,8 @@ This is a full-stack Blogging application built using MERN stack by a team of 2.
 
 ## DEMO Video
 
-<iframe width="560" height="315" src="Assets/BLOG.mp4" frameborder="0" allowfullscreen></iframe>
+<video width="560" height="315" controls>
+  <source src="Assets/BLOG.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
