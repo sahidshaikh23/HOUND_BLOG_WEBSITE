@@ -27,3 +27,7 @@ This is a full-stack Blogging application built using MERN stack by a team of 2.
 - [Sahid Shaikh](https://github.com/sahidshaikh23)
 
 - [Pratik Malunjkar](https://github.com/pratikmalunkar)
+
+
+##DEMO Video
+
