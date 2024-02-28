@@ -29,6 +29,6 @@ This is a full-stack Blogging application built using MERN stack by a team of 2.
 - [Pratik Malunjkar](https://github.com/pratikmalunkar)
 
 
-##DEMO Video
+## DEMO Video
 
 <iframe width="560" height="315" src="Assets/BLOG.mp4" frameborder="0" allowfullscreen></iframe>
