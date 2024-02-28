@@ -32,7 +32,7 @@ This is a full-stack Blogging application built using MERN stack by a team of 2.
 ## DEMO Video
 
 <video width="560" height="315" controls>
-  <source src="Assets/BLOG.mp4" type="video/mp4">
+  <source src="[Assets/BLOG.mp4](https://github.com/sahidshaikh23/HOUND_BLOG_WEBSITE/blob/main/Assets/BLOG.mp4)https://github.com/sahidshaikh23/HOUND_BLOG_WEBSITE/blob/main/Assets/BLOG.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
