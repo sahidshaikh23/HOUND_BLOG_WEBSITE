@@ -1,4 +1,4 @@
-# "Discover the World of HOUND: A MERN-Stack Blogging Platform for Your Adventures"
+# "Discover the World of HOUND: A MERN-Stack Blogging Platform for Your Adventures..."
 
 
 <p align="center">
